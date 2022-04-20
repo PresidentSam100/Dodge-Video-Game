@@ -1,11 +1,11 @@
 # Dodge-Video-Game
-My Java implementation of a fairly simple but fun game.
+My Java implementation of a fairly simple but fun game in 3 days.
 
 [Link to Source Code](https://github.com/PresidentSam100/Dodge-Video-Game/tree/main/Dodge/src)
 
 ## Objective:
 
-    Move your character around maze but watch out for enemeies and lasers along the way.
+    Move your character around a maze but watch out for enemeies and lasers along the way.
 
 ## Rules:
 
